@@ -1,2 +1,2 @@
 # Banboo_Test
-对hexo-theme-bamboo进行一些修改
+学习hexo制作blog，利用hexo-theme-bamboo做了一些界面作为样例。
